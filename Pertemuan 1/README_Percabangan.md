@@ -14,7 +14,7 @@ Selama nilai delay masih di atas 100 ms, program akan terus mempercepat kedipan 
 
 ---
 
-## 3. Apa fungsi dari perintah delay(timeDelay)?
+### 3. Apa fungsi dari perintah delay(timeDelay)?
 **Jawab:**
 Fungsi `delay(timeDelay)` adalah untuk memberikan jeda waktu (dalam milidetik).  
 Perintah ini mengatur kecepatan LED berkedip:
@@ -23,10 +23,10 @@ Perintah ini mengatur kecepatan LED berkedip:
 
 ---
 
-## 4. Jika program yang dibuat memiliki alur mati → lambat → cepat → reset (mati), ubah menjadi LED tidak langsung reset → tetapi berubah dari cepat → sedang → mati dan berikan penjelasan disetiap baris kode nya dalam bentuk README.md!
+### 4. Jika program yang dibuat memiliki alur mati → lambat → cepat → reset (mati), ubah menjadi LED tidak langsung reset → tetapi berubah dari cepat → sedang → mati dan berikan penjelasan disetiap baris kode nya dalam bentuk README.md!
 **jawab:**
 
-### Source Code
+#### Source Code
 ```cpp
 const int ledPin = 6;      // Menentukan pin LED
 int timeDelay = 1000;      // Delay awal (lambat)
@@ -59,7 +59,6 @@ void loop() {
   }
 }
 
-### Penjelasan Singkat Source Code
 Program ini mengatur LED agar berkedip dengan perubahan kecepatan secara bertahap.  
 Awalnya LED berkedip lambat, kemudian semakin cepat dengan mengurangi nilai `timeDelay`.  
 Setelah mencapai kecepatan maksimum, program beralih ke fase perlambatan hingga kembali lambat.  
