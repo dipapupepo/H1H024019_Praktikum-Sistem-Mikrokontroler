@@ -6,7 +6,7 @@ Rangkaian LED running terdiri dari beberapa LED yang dihubungkan ke pin digital 
 Setiap LED disusun secara berurutan dan dilengkapi resistor sebagai pembatas arus agar tidak rusak.  
 
 Link simulasi Tinkercad:  
-https://www.tinkercad.com/things/bJb43U88WzV/editel?returnTo=%2Fdashboard&sharecode=S5mK-roMe16TAB1YictsuJaH9p4c1ZoYpfkBRQ_yojs
+[https://www.tinkercad.com/things/fetw22dv1p2-rangkaian-schematic-5-led-running-?sharecode=KFVachlYWjDVsuFv98Db5xEVJEEYgtNlKnkRcR35cLo]
 
 ---
 ### 2. Jelaskan bagaimana program membuat efek LED berjalan dari kiri ke kanan!
