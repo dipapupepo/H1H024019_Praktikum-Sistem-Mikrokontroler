@@ -58,3 +58,8 @@ void loop() {
     }
   }
 }
+
+Program ini mengatur LED agar berkedip dengan perubahan kecepatan secara bertahap.
+Awalnya LED berkedip lambat, kemudian semakin cepat dengan mengurangi nilai `timeDelay`.
+Setelah mencapai kecepatan maksimum, program beralih ke fase perlambatan hingga kembali lambat.
+Ketika sudah kembali lambat, program dihentikan menggunakan `while(true)` sehingga LED mati.
