@@ -1,13 +1,13 @@
 # Percobaan 1 (Percabangan)
 
-# 1. Pada kondisi apa program masuk ke blok if?
+### 1. Pada kondisi apa program masuk ke blok if?
 **Jawab:**
 Program masuk ke blok `if` ketika nilai variabel `timeDelay <= 100`.  
 Artinya, saat delay sudah semakin kecil (LED berkedip semakin cepat) dan mencapai batas minimum (100 ms atau kurang), maka kondisi `if` akan dijalankan.
 
 ---
 
-# 2. Pada kondisi apa program masuk ke blok else?
+### 2. Pada kondisi apa program masuk ke blok else?
 **Jawab:**
 Program masuk ke blok `else` ketika kondisi `timeDelay > 100`.  
 Selama nilai delay masih di atas 100 ms, program akan terus mempercepat kedipan LED dengan cara mengurangi nilai `timeDelay`.
