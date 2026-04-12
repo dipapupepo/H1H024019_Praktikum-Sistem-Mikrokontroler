@@ -1,6 +1,7 @@
 # Percobaan Seven Segment
 ### 1. Gambarkan rangkaian scematic yang digunakan pada percobaan!
 #### jawab: 
+https://www.tinkercad.com/things/c8IVg1XfKzK-seven-segment?sharecode=u88vAl38j9FgyaRvPVEaIw1Br2fLibAjsCL2ncg5EAk
 
 ### 2. Apa yang terjadi jika nilai num lebih dari 15?
 #### jawab: 
