@@ -68,6 +68,9 @@ Jika:
 - '2' → LED berkedip terus
 - Mode blink akan berjalan terus sampai ada input baru
 - Menggunakan millis() supaya tidak menghambat pembacaan input
+  
+link : https://www.tinkercad.com/things/i3mWE1mzms7/editel
+
 ### 4. Tentukan apakah menggunakan delay() atau milis()! Jelaskan pengaruhnya terhadap sistem
 #### jawab : 
 - delay() → menghentikan seluruh program sementara (blocking), sehingga tidak bisa membaca input baru selama delay berjalan
