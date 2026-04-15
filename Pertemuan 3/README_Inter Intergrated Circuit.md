@@ -91,6 +91,8 @@ Alur Program
 - Data ditampilkan ke: LCD (I2C), Serial Monitor (UART)
 - Ditampilkan juga dalam bentuk bar (level)
 
+link : https://wokwi.com/projects/461255884655783937
+
 ###4. Lengkapi table berikut berdasarkan pengamatan pada Serial Monitor 
 | ADC | Volt (V) | Persen (%) |
 |-----|------|------------|
