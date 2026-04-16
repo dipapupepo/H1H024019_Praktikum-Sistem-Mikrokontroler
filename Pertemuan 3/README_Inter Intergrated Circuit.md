@@ -93,7 +93,7 @@ Alur Program
 
 link : https://wokwi.com/projects/461255884655783937
 
-###4. Lengkapi table berikut berdasarkan pengamatan pada Serial Monitor 
+### 4. Lengkapi table berikut berdasarkan pengamatan pada Serial Monitor 
 | ADC | Volt (V) | Persen (%) |
 |-----|------|------------|
 | 1   |      |          |
