@@ -33,3 +33,6 @@ if (pwm >= 50 && pwm <= 200) {
 - Setelah dikonversi ke PWM:
   - Jika PWM antara 50–200 → LED menyala (kecerahan sedang)
   - Jika di luar rentang tersebut → LED dimatikan
+
+### Rangkaian Percobaan : 
+https://www.tinkercad.com/things/50ulmxE28de-pulse-width-modulation-pwm?sharecode=fSev7cce8segQJ5VBLzKJzlDa7Ds0lzBYLoIFCtVdPw
